@@ -79,4 +79,6 @@ Thank you for your contributions! Press Enter to continue
 
 ## Questions
 If you have any questions about the project, please feel free to reach out to me at [](mailto:). You can also find more of my work at [   - Clone the forked repository to your local machine:](https://github.com/   - Clone the forked repository to your local machine:).
-  
+
+## Link to Walkthrough Video
+Link: https://www.loom.com/share/d8fc93a611e440cdb8584b9aecaf081d?sid=f3ed8029-fbc9-47c0-846c-c5853a4f2235
