@@ -65,11 +65,6 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'tests',
-    message: 'Provide test instructions:',
-  },
-  {
-    type: 'input',
     name: 'github',
     message: 'What is your GitHub username?',
   },
@@ -138,9 +133,6 @@ ${answers.features}
 
 ## How to Contribute
 ${answers.contributing}
-
-## Tests
-${answers.tests}
 
 ## Questions
 If you have any questions about the project, please feel free to reach out to me at [${answers.email}](mailto:${answers.email}). You can also find more of my work at [${answers.github}](https://github.com/${answers.github}).
